@@ -26,4 +26,6 @@
 
 ## todo 
 - [ ] TaskFileの作成
-- 
+- [ ] linterの設定
+- [ ] CI/CDの設定
+- [ ] テストの実装
